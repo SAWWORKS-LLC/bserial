@@ -1,3 +1,10 @@
 build/
 src/__pycache__/
 src/bserial.egg-info/
+plans/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.pytest_cache/
+.venv/
